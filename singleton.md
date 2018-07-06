@@ -1,20 +1,16 @@
-Example of lazy singleton
+**_Example of lazy singleton_**
 
-public class TestSingleton {
-	private static TestSingleton instance;
+    public class TestSingleton {
+	private static TestSingleton instance; 
 
 	public static TestSingleton getInstance() {
 		if (instance == null) {
-			instance = new TestSingleton();
+		    instance = new TestSingleton();
 		}
-		return instance;
+	    return instance;
 	}
 
-	private TestSingleton() {
-
+	private TestSingleton() {}
 	}
+	
 
-	public static void main(String[] args) {
-		TestSingleton.getInstance().toString();
-	}
-}
