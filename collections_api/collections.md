@@ -1,0 +1,1 @@
+[Про Java Collections Framework: почти все и сразу](https://proft.me/2017/04/10/pro-java-collections-framework-pochti-vse-i-srazu/)
