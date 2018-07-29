@@ -1,0 +1,1 @@
+[Очень простое объяснение принципов SOLID](https://vk.com/@javarush-ochen-prostoe-obyasnenie-principov-solid)
