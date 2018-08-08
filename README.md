@@ -6,7 +6,6 @@ preparations for an interview/useful things and other
 - [Все о Java и SQL](http://java-online.ru/java-interview-01.xhtml)
 - [Java Tutorials](http://www.baeldung.com/spring-boot)
 
-
 - [Spring](https://github.com/anyonepaw/java-tips-and-hints/blob/master/spring/spring_menu.md)
 - [Design patterns](https://github.com/anyonepaw/java-tips-and-hints/blob/master/patterns/patterns_menu.md)
 - [JSP](https://github.com/anyonepaw/java-tips-and-hints/blob/master/jsp/all-about-jsp's.md)
