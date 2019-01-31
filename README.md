@@ -11,6 +11,7 @@ preparations for an interview/useful things and other
 - [JSP](https://github.com/anyonepaw/java-tips-and-hints/blob/master/jsp/all-about-jsp's.md)
 - [Stream API](https://github.com/anyonepaw/java-tips-and-hints/tree/master/stream_api)
 - [SOLID](https://github.com/anyonepaw/java-tips-and-hints/blob/master/SOLID.md)
+- [Java: self tutor](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/)
 
 
 - [Как записать SimpleDateFormat](http://www.seostella.com/ru/article/2012/02/05/formatirovanie-daty-v-java.html)
