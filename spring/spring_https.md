@@ -1,0 +1,3 @@
+Кому интересно запустить проект на HTTPS, вот пара статей (все предельно просто):
+1) [Для spring boot 1.* . Здесь можно взять первые 2 пункта.](https://drissamri.be/blog/java/enable-https-in-spring-boot/)
+2) [Для spring boot 2.* . Тут можно взять 3-ий пункт, который конфиг (в первой ссылке по первым двум пунктам меньше воды)](http://code-adda.com/2018/06/enable-https-with-self-signed-certificate-in-spring-boot/)
